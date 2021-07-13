@@ -12,8 +12,10 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="/usr/bin/git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vGDL4a2aL88oz0168E40GSW9rJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +39,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="594" y="351" key="Github.ShareDialog" timestamp="1626196918763">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="594" y="351" key="Github.ShareDialog/0.0.1440.900/1440.-408.2560.1440@0.0.1440.900" timestamp="1626196918763" />
+    <state x="367" y="159" key="Github.UntrackedFilesDialog" timestamp="1626196940736">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="367" y="159" key="Github.UntrackedFilesDialog/0.0.1440.900/1440.-408.2560.1440@0.0.1440.900" timestamp="1626196940736" />
     <state x="67" y="108" key="SettingsEditor" timestamp="1626196809448">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
