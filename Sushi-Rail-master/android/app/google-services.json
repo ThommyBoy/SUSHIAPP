@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781279762537",
+    "project_id": "sushi-rail",
+    "storage_bucket": "sushi-rail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781279762537:android:1d4daa319a01036b2b6af8",
+        "android_client_info": {
+          "package_name": "com.example.sushi_rail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781279762537-ct9sjo5q8q1rskk3o8qeav18p2ht9a7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdyOfllD3LYa4fnXPC4zQwAsvFTNDkP6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781279762537-ct9sjo5q8q1rskk3o8qeav18p2ht9a7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
